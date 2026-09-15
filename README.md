@@ -372,4 +372,4 @@ BugSense AI — Intelligent Bug Diagnosis Platform with Fix Recommendation Assis
 
 ## 📄 License
 
-This project is intended for educational, demonstration, and portfolio purposes. Add an appropriate open-source license before publishing the repository publicly.
+This project is intended for my internship in Infosys Springboard Internship.
