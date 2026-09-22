@@ -369,7 +369,3 @@ Some capabilities depend on the project's configured AI provider, available hist
 BugSense AI — Intelligent Bug Diagnosis Platform with Fix Recommendation Assistance.
 
 ---
-
-## 📄 License
-
-This project is intended for my internship in Infosys Springboard Internship.
